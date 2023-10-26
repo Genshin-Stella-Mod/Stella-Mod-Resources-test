@@ -1,4 +1,4 @@
-# Stella Mod Resources
+# Stella Mod Resources - TEST
 Repository containing a collection of presets and shaders used by the [Genshin Stella Mod](https://sefinek.net/genshin-impact-reshade/repositories).
 
 
